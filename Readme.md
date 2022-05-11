@@ -7,8 +7,7 @@ I'm Tha Htoo Sint and I'm an aspiring web-developer from Myanmar. I am aiming to
 * 🖥️ Django 
 *  ☕ Java    
 * 📱 JS  
-* 📂 HTML        
-* 📁 CSS 
+* 📂 HTML / CSS 
 * 🗄️ Bootstrap
 
 
