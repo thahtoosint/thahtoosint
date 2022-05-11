@@ -1,5 +1,5 @@
-### Hello there 👋, my name is Htoo
-#### Development and Backend
+## Hello there 👋, my name is Htoo
+### Development and Backend
 I'm Tha Htoo Sint and I'm an aspiring web-developer from Myanmar. I am aiming to become a backend developer. I enjoy learning about Python frameworks.
 
 #### Skills:
