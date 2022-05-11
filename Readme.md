@@ -2,7 +2,7 @@
 #### Development and Backend
 I'm Tha Htoo Sint and I'm an aspiring web-developer from Myanmar. I am aiming to become a backend developer. I enjoy learning about Python frameworks.
 
-### Skills:
+#### Skills:
 * 💻 Python 
 * 🖥️ Django 
 *  ☕ Java    
